@@ -7,3 +7,5 @@ M
 tests/policy-issuance.test.ts,0/7/07d23e5a06f9db1893a264cc84537d6af3a2c1f3
 M
 contracts/weather-oracle.clar,9/1/91996854794d2cec790d71498b2a388f98be7d49
+R
+"contracts/premium-calculation.clar,c/c/cc818239d7475ae09fbfb317e0dd38b6608d8bf4
